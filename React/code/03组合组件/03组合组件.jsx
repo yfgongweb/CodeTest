@@ -1,4 +1,4 @@
-// 创建评论组件
+// 创建评论组件 test 
 let CommonList = React.createClass({
     render(){
         return (
